@@ -1,12 +1,13 @@
 title: Sally's Cafe
 author:
-  name: Sally @ sherryuuer
+  name: Sally@sherryuuer
   email: sherryuuer@gmail.com
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   宇宙，时间，空间，猫，思考，咖啡，爱❤️，人生全部的意义，只是为了经历所有不曾遇到和灵光乍现那一刻的喜悦，最美好的，永远是现在。
+  回主站:[Sally's Home❤️](https://sherryuuer.github.io/web-apps/)
 
 # Build settings
 
@@ -42,7 +43,7 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: solarized-light
+  skin: classic
 
   # Minima date format.
   # The default value is "%b %d, %Y" (e.g. Nov 14, 2023)
